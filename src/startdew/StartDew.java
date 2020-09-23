@@ -3,20 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package osnoviprogramirovanija;
+package startdew;
 
 /**
  *
  * @author user
  */
-public class OsnoviProgramirovanija {
+public class StartDew {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Task1 task1 = new Task1();
-        Task1.run();
+        //Task1 task1 = new Task1();
+          //task1.run();
+        
+        Task2 task2 = new Task2();
+        task2.run();
     }
     
 }
